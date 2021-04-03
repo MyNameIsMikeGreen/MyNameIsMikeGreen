@@ -1,4 +1,4 @@
 - 👋 Hi, I’m [@MyNameIsMikeGreen](https://github.com/MyNameIsMikeGreen). If you hadn't already guessed, my name is Mike Green.
-- 👀 I am a professional software enigneer in Manchester, UK. I primarily develop with Java and Python but have experience with a wide range of technologies.
+- 👀 I am a professional software engineer in Manchester, UK. I primarily develop with Java and Python but have experience with a wide range of technologies.
 - 🌱 Many of my personal projects are focused on data analysis. I write scrapers, transformers, and API clients in order to manipulate and visualise various data in ways that I find helpful. Usually it is to support research I am currently conducting in my own life. For example, relative geographic property value assessments. Admittedly, this does mean that many of the projects become abandoned once they have served their purpose for me. But feel free to fork my projects and build upon them if you need to do something similar.
 - 📫 You can reach me via LinkedIn (See [MikeGreen.net](https://MikeGreen.net) for link to profile).
