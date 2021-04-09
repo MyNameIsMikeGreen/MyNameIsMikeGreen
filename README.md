@@ -1,5 +1,5 @@
 * 👋 Hi, I’m [@MyNameIsMikeGreen](https://github.com/MyNameIsMikeGreen). If you hadn't already guessed, my name is Mike Green.
-* 👀 I am a professional software engineer in Manchester, UK. I primarily develop with Java and Python but have experience with a wide range of technologies.
+* 👀 I am a professional software engineer in Manchester, UK.
 * 🌱 The personal projects hosted on my account are most commonly related to:
   * Data analysis and visualisation
   * Home automation
